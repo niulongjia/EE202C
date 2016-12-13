@@ -1,4 +1,5 @@
-# EE202C IoT Systems for Precise Classification of Upper Body Motion 
+# EE202C Networked Embedded Systems Design
+# IoT Systems for Precise Classification of Upper Body Motion 
 ## Group Members:
   Yuqian(Peter) Zhang<br />
   Yixiao(Miley) Wang<br />
