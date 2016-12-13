@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pic_read.png",
+        "source": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\src\\main\\res\\mipmap-hdpi\\pic_read.png"
+    },
+    {
+        "merged": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pic_cook.png",
+        "source": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\src\\main\\res\\mipmap-hdpi\\pic_cook.png"
+    },
+    {
+        "merged": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pic_rest.png",
+        "source": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\src\\main\\res\\mipmap-hdpi\\pic_rest.png"
+    },
+    {
+        "merged": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pic_error.png",
+        "source": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\src\\main\\res\\mipmap-hdpi\\pic_error.png"
+    },
+    {
+        "merged": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pic_walk.png",
+        "source": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\src\\main\\res\\mipmap-hdpi\\pic_walk.png"
+    },
+    {
+        "merged": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pic_unknown.png",
+        "source": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\src\\main\\res\\mipmap-hdpi\\pic_unknown.png"
+    },
+    {
+        "merged": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pic_type.png",
+        "source": "D:\\Android\\PreciseClassificationApp-v2.0\\app\\src\\main\\res\\mipmap-hdpi\\pic_type.png"
+    }
+]
